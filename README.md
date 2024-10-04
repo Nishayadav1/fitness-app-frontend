@@ -9,29 +9,11 @@ This is a simple workout tracker app that allows users to log and track their da
 - **Workout History & Stats:** Users can view their workout history and statistics, such as total calories burned, via the frontend.
 - **Frontend & API Integration:** A simple frontend UI interacts with the backend, using Fetch API to handle API requests.
 
-## Tech Stack
+## Technical tools
 - **Frontend:** HTML, CSS, Bootstrap, JavaScript (Fetch API)
 - **Backend:** Express.js
 - **Database:** MongoDB
-- **Hosting:** Vercel (for frontend), MongoDB Atlas (for database)
-
-## Setup Instructions
-1. **Install Dependencies:**
-   - Run `npm install` to install backend dependencies.
-
-2. **Set up MongoDB:**
-   - Set up a MongoDB database and provide the connection string in a `.env` file as `MONGODB_URI`.
-
-3. **Run the Backend:**
-   - Use `node server.js` or `npm start` to start the server.
-
-4. **Frontend Interaction:**
-   - The frontend HTML and CSS files are ready to use. They interact with the backend to log workouts and display the workout history.
-
-## API Endpoints
-- **POST /api/workouts:** Add a new workout
-- **GET /api/workouts:** Fetch workout history
-- **GET /api/stats:** Fetch statistics (total calories burned)
+- **Hosting:** rader
 
 ## Usage
 - **Add Workout:** Enter the workout details (type, duration, and intensity) and submit to log it.
