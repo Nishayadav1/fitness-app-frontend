@@ -13,7 +13,7 @@ This is a simple workout tracker app that allows users to log and track their da
 - **Frontend:** HTML, CSS, Bootstrap, JavaScript (Fetch API)
 - **Backend:** Express.js
 - **Database:** MongoDB
-- **Hosting:** rader
+- **Hosting:** render
 
 ## Usage
 - **Add Workout:** Enter the workout details (type, duration, and intensity) and submit to log it.
