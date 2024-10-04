@@ -23,7 +23,7 @@ This is a simple workout tracker app that allows users to log and track their da
    - Set up a MongoDB database and provide the connection string in a `.env` file as `MONGODB_URI`.
 
 3. **Run the Backend:**
-   - Use `node app.js` or `npm start` to start the server.
+   - Use `node server.js` or `npm start` to start the server.
 
 4. **Frontend Interaction:**
    - The frontend HTML and CSS files are ready to use. They interact with the backend to log workouts and display the workout history.
